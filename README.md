@@ -3,13 +3,13 @@
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 ##
-<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="240" />
+<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="220" />
 
 - 🔭 I’m currently working on [my-portfolio](https://rupendraportfolio.vercel.app/)
 
 - 🌱 I’m currently learning **MERN stack 💻👍🤟**
 
-- 👨‍💻 All of my projects are available at [https://rupendraportfolio.vercel.app/](https://rupendraportfolio.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://rupendraportfolio.vercel.app/](https://rupendraportfolio.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript, Html, CSS 👍**
 
