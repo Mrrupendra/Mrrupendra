@@ -5,11 +5,11 @@
 ##
 <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="220" />
 
-- 🔭 I’m currently working on [my-portfolio](https://rupendraportfolio.vercel.app/)
+- 🔭 I’m currently working on [my-portfolio](https://rupendrasingh.vercel.app/)
 
 - 🌱 I’m currently learning **MERN stack 💻👍🤟**
 
-- 👨‍💻 Some of my projects are available at [https://rupendraportfolio.vercel.app/](https://rupendraportfolio.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://rupendrasingh.vercel.app/](https://rupendrasingh.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript, Html, CSS 👍**
 
