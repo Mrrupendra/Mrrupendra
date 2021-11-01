@@ -32,7 +32,7 @@ Find out more about me & feel free to connect with me here:
 	<a href="https://www.instagram.com/rupendra_singh11/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
-  <a href="https://rupendraportfolio.vercel.app/">
+  <a href="https://rupendrasingh.vercel.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
   <a href="mailto:mr.rupendra11@gmail.com">
